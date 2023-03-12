@@ -1,0 +1,2 @@
+# raadkod
+günlük raadkod
